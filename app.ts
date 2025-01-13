@@ -1,0 +1,1 @@
+console.log('The app is running! This app is ment for creating typescript practice files and testing them in the browser console.');
